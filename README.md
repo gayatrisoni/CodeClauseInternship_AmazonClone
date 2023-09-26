@@ -19,7 +19,8 @@ I have created amazon clone website using React.js
 * React-Dom
 
 # Features
-Login and Logout
-Add to cart
-Remove from cart
-Neat and clean UI
+* Login and Logout
+* Add to cart
+* Remove from cart
+* Neat and clean UI
+  
