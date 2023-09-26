@@ -12,12 +12,11 @@ I have created amazon clone website using React.js
 
 
 # Technology used
-Amazon clone website
-ReactJs
-Firebase Hosting
-Firebase Auth
-Firebase Storage
-React-Dom
+* ReactJs
+* Firebase Hosting
+* Firebase Auth
+* Firebase Storage
+* React-Dom
 
 # Features
 Login and Logout
